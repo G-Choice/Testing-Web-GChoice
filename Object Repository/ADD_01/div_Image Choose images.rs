@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Image Choose images</name>
+   <tag></tag>
+   <elementGuidId>3acbfb5a-64c2-448f-9617-a84dc08fe766</elementGuidId>
+   <imagePath>../../../Pictures/meeting/canhdong.jpg</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_7qshyku08']/div/div/div[2]/form/div[7]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../../Pictures/meeting/canhdong.jpg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2ee03b9-50d0-4c30-a7d9-2132e29daab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full create-layout</value>
+      <webElementGuid>6b1eb8f8-44ee-48df-ae69-ec61854c0e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Image *Choose images</value>
+      <webElementGuid>8c031d7a-01c1-45e2-9d50-e1cee9dfd7a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_7qshyku08&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;flex flex-row justify-center gap-5 form-create&quot;]/div[@class=&quot;w-full create-layout&quot;]</value>
+      <webElementGuid>187947a4-a757-4d7a-9632-f83b33268eb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_7qshyku08']/div/div/div[2]/form/div[7]/div</value>
+      <webElementGuid>67810669-ea6c-477f-a0bf-f9586d7ae6e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/following::div[3]</value>
+      <webElementGuid>3551a0f3-ac48-43e4-91c8-cbed20aa1de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form/div[7]/div</value>
+      <webElementGuid>47058411-46bf-4dc6-b0dc-7148787c94f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Image *Choose images' or . = 'Image *Choose images')]</value>
+      <webElementGuid>6200403a-9020-4397-bdef-f3fbf9a81686</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
