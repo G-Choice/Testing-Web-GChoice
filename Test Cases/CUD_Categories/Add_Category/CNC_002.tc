@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that shop owners can create new categories with category names that contain special characters</description>
+   <name>CNC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1778cdf-e2bb-48a2-88eb-ba43acbe405a</testCaseGuid>
+</TestCaseEntity>

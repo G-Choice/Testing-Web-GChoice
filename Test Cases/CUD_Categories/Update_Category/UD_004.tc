@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that shop owners can not edit categories when the Name Category field is empty</description>
+   <name>UD_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1e6ec5c-8312-4286-9a74-ea52ffbdc177</testCaseGuid>
+</TestCaseEntity>

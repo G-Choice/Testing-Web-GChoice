@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the shop owner can edit category with valid name category</description>
+   <name>UD_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8346100-6543-4dfe-928d-1cd342a35931</testCaseGuid>
+</TestCaseEntity>

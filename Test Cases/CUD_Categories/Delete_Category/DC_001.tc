@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the shop owner can delete category successfull</description>
+   <name>DC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b929992-645a-4620-a2b2-a106682a4333</testCaseGuid>
+</TestCaseEntity>

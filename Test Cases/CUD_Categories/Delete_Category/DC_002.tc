@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the shop owner can not delete category when pressing 'Cancel' button</description>
+   <name>DC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3e4d1d1-2fa7-49d1-adfe-7c0b8e18c62a</testCaseGuid>
+</TestCaseEntity>
