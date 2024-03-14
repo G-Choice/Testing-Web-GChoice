@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the store owner can not edit category with an existing category name</description>
+   <name>UD_007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7072e7d5-0429-45ff-ad18-ab93259919bb</testCaseGuid>
+</TestCaseEntity>

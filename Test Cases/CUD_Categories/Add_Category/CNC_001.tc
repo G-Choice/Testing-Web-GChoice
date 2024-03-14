@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the shop owner can create a new category with valid name category</description>
+   <name>CNC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8e29d10-bc1e-40f7-a4da-c94b9d4c6903</testCaseGuid>
+</TestCaseEntity>
