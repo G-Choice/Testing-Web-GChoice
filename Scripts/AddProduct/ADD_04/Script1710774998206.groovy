@@ -17,13 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://localhost:3000/login')
-
-WebUI.setText(findTestObject('Object Repository/DL/DL_01/input_Login_email'), 'ykimtra22062003@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/DL/DL_01/input_Email_password'), 'aeHFOx8jV/A=')
-
-WebUI.click(findTestObject('Object Repository/DL/DL_01/button_Login'))
-

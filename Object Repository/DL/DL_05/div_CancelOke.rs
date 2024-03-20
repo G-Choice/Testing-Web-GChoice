@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CancelOke</name>
+   <tag></tag>
+   <elementGuidId>412252f3-2853-4c34-9625-ac342ec54a86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.intro-x.mx-auto.text-center.flex.justify-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad5b449e-9e05-490f-9ba0-183a4f9e632e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>intro-x mx-auto text-center flex justify-center</value>
+      <webElementGuid>af55abf6-83a6-4ee3-80d1-09ff4fcecb47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CancelOke</value>
+      <webElementGuid>c05b1629-884b-414a-8f5f-c92eebfcbc30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_kl91h8ews&quot;)/div[@class=&quot;modal-dialog modal-md&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer px-0&quot;]/div[@class=&quot;intro-x mx-auto text-center flex justify-center&quot;]</value>
+      <webElementGuid>e24e7ac7-ab51-489a-ac3a-bc302d9190c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_kl91h8ews']/div/div/div[3]/div</value>
+      <webElementGuid>4263ce2f-cee6-4db1-ae05-23914e1dc171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHOP TICK ABCDEFGHIKLMNOPOP'])[2]/following::div[2]</value>
+      <webElementGuid>4d7cf0db-8ae0-4de9-999b-996b8ee9d240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/following::div[15]</value>
+      <webElementGuid>f9588209-de7c-4390-9a90-58cd7cbcea66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div</value>
+      <webElementGuid>650aa043-2717-43c9-adbc-4f6dd1a0613b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CancelOke' or . = 'CancelOke')]</value>
+      <webElementGuid>b6d66db9-9c9e-4344-8d9c-e2207d7dc006</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

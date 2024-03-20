@@ -21,9 +21,30 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/DL/DL_01/input_Login_email'), 'ykimtra22062003@gmail.com')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input_Login_email'), 'ykimtra22062003@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/DL/DL_01/input_Email_password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/ADD/ADD_03/input_Email_password'), 'VJ6uNRAKvEsaM3HKuewOwQ==')
 
-WebUI.click(findTestObject('Object Repository/DL/DL_01/button_Login'))
+WebUI.click(findTestObject('Object Repository/ADD/ADD_03/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/ADD/ADD_03/button_Create'))
+
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__name'), 'TRUGHFGHDJJKUKHDJNHGJYGJHJH')
+
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__price'), '124')
+
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/textarea__description'), 'description')
+
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__brand'), 'taiwan')
+
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__amount'), '2')
+
+def uploadButton = findTestObject(findTestObject('Object Repository/ADD/ADD_03/div_Image Choose images'))
+
+String imagePath = "D:\\Pictures\\meeting\\" + File.separator + "canhdong.jpg"
+
+WebUI.takeScreenshot(imagePath)
+
+
+WebUI.click(findTestObject('Object Repository/ADD/ADD_03/button_Add'))
 

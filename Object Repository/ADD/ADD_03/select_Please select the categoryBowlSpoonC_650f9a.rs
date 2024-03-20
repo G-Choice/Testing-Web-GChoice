@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please select the categoryBowlSpoonC_650f9a</name>
+   <tag></tag>
+   <elementGuidId>620b058f-5b7d-4da0-a5d0-252c49399050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#_tnd9ttjko > div.modal-dialog.modal-xl > div.modal-content > div.modal-body > form > div.flex.flex-row.justify-center.gap-5.form-create > div.w-full.create-layout > select[name=&quot;category&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@name='category'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>482a2e19-d7b3-46ea-b413-56f6a6c2e390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control pr-10</value>
+      <webElementGuid>c0be9b5c-68d7-4612-b7aa-4afe943724f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter category</value>
+      <webElementGuid>e46fc2c5-d4a1-4814-bc1f-3d1564e26035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>category</value>
+      <webElementGuid>a6df1591-92ae-4e03-be03-076c2c11254a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select the categoryBowlSpoonChopstick</value>
+      <webElementGuid>3ac5c6aa-362e-474c-8ab0-f7377360283d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_tnd9ttjko&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;flex flex-row justify-center gap-5 form-create&quot;]/div[@class=&quot;w-full create-layout&quot;]/select[@class=&quot;form-control pr-10&quot;]</value>
+      <webElementGuid>88fac1a7-7af2-4eb1-bfa4-2c044a60b0e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@name='category'])[2]</value>
+      <webElementGuid>12068c9e-96ae-412b-9cd9-819cf1853b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_tnd9ttjko']/div/div/div[2]/form/div/div/select</value>
+      <webElementGuid>8d78c79c-4b13-41c1-a82b-7dea8387c8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::select[1]</value>
+      <webElementGuid>d5f5a9a2-e4a3-4e7f-874e-ac7b4d12fb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/preceding::select[1]</value>
+      <webElementGuid>a5ec32c6-a4d8-4faa-9cb0-a64d2f9b3648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form/div/div/select</value>
+      <webElementGuid>108163f0-ec07-4f31-b4a7-e12fc99db8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@placeholder = 'Enter category' and @name = 'category' and (text() = 'Please select the categoryBowlSpoonChopstick' or . = 'Please select the categoryBowlSpoonChopstick')]</value>
+      <webElementGuid>1d39144c-f5ce-48bb-9329-9a34cfd12fd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

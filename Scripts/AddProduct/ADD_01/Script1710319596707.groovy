@@ -21,34 +21,40 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/ADD_01/input_Login_email'), 'ykimtra22062003@gmail.com')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_01/input_Login_email'), 'ykimtra22062003@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ADD_01/input_Email_password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/ADD/ADD_01/input_Email_password'), 'VJ6uNRAKvEsaM3HKuewOwQ==')
 
-WebUI.click(findTestObject('Object Repository/ADD_01/button_Login'))
+WebUI.click(findTestObject('Object Repository/ADD/ADD_01/i_Password_fa-solid fa-eye'))
 
-WebUI.click(findTestObject('Object Repository/ADD_01/button_Create'))
+WebUI.click(findTestObject('Object Repository/ADD/ADD_01/button_Login'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/ADD_01/select_Please select the categorybinh hoabt_36cbd2'), 
-    '2', true)
+WebUI.click(findTestObject('Object Repository/ADD/ADD_01/button_Create'))
 
-WebUI.setText(findTestObject('Object Repository/ADD_01/input__name'), 'bát sư tràng an mẫu mã CHIKJOPL')
+WebUI.selectOptionByValue(findTestObject('Object Repository/ADD/ADD_01/select_Please select the categoryBowlSpoonC_650f9a'), 
+    '3', true)
 
-WebUI.setText(findTestObject('Object Repository/ADD_01/input__price'), '30000')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_01/input__name'), 'CHOPSSSTICK MANIMKHFGTWUYSHA IKJKHUH')
 
-WebUI.setText(findTestObject('Object Repository/ADD_01/textarea__description'), 'dễ dàng lau chùi')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_01/input__price'), '1090')
 
-WebUI.setText(findTestObject('Object Repository/ADD_01/input__brand'), 'trang an')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_01/textarea__description'), 'descrip')
 
-WebUI.setText(findTestObject('Object Repository/ADD_01/input__amount'), '2')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_01/input__brand'), 'china')
 
-WebUI.click(findTestObject('ADD_01/div_Image Choose images'))
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_01/input__amount'), '2')
 
-def uploadButton = findTestObject(findTestObject('Object Repository/ADD_01/div_Image Choose images'))
+WebUI.click(findTestObject('ADD/ADD_01/div_Image Choose images'))
 
-def filePath = 'D:\\Pictures\\meeting\\canhdong.jpg'
+def uploadButton = findTestObject(findTestObject('Object Repository/ADD/ADD_01/div_Image Choose images'))
 
-WebUI.uploadFile(uploadButton, filePath)
+String imagePath = ('D:\\Pictures\\meeting\\' + File.separator) + 'canhdong.jpg'
 
-WebUI.click(findTestObject('ADD_01/button_Add'))
+WebUI.takeScreenshot(imagePath)
+
+WebUI.click(findTestObject('Object Repository/ADD/ADD_01/img_Choose images_rounded-md'))
+
+WebUI.click(findTestObject('Object Repository/ADD/ADD_01/button_Add'))
+
+WebUI.click(findTestObject('Object Repository/ADD/ADD_01/div_Successfully'))
 

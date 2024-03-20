@@ -21,9 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/DL/DL_01/input_Login_email'), 'ykimtra22062003@gmail.com')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_02/input_Login_email'), 'ykimtra22062003@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/DL/DL_01/input_Email_password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/ADD/ADD_02/input_Email_password'), 'VJ6uNRAKvEsaM3HKuewOwQ==')
 
-WebUI.click(findTestObject('Object Repository/DL/DL_01/button_Login'))
+WebUI.click(findTestObject('Object Repository/ADD/ADD_02/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/ADD/ADD_02/button_Create'))
+
+WebUI.click(findTestObject('Object Repository/ADD/ADD_02/button_Add'))
 
