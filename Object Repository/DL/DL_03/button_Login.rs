@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>b9f723b1-d273-4913-80b7-dc7873ba77e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div[2]/div/div/form/div[3]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>298d045a-14f1-4501-b182-e0698e7a4dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary py-3 px-4 w-full xl:w-32 xl:mr-3 align-top</value>
+      <webElementGuid>760e7ec6-575b-4540-9526-5a24c36d7005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login </value>
+      <webElementGuid>a366b682-bd7a-430c-b1ad-a22705893ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;container sm:px-10&quot;]/div[@class=&quot;block xl:grid grid-cols-2 gap-4&quot;]/div[@class=&quot;h-screen xl:h-auto flex py-5 xl:py-0 my-10 xl:my-0&quot;]/div[@class=&quot;my-auto mx-auto xl:ml-20 bg-white dark:bg-darkmode-600 xl:bg-transparent sm:px-0 xl:p-0 rounded-md shadow-md xl:shadow-none w-full sm:w-3/4 lg:w-2/5 xl:w-auto&quot;]/div[@class=&quot;intro-x caixa__login&quot;]/form[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;intro-x mt-2 text-center xl:text-left&quot;]/button[@class=&quot;btn btn-primary py-3 px-4 w-full xl:w-32 xl:mr-3 align-top&quot;]</value>
+      <webElementGuid>d9a5eb1d-43e0-4540-acc4-94d46aeda92f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/div/div/form/div[3]/div[2]/button</value>
+      <webElementGuid>4511d0e1-9b14-4df6-b193-8ee6f6c9b808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forget password?'])[1]/following::button[1]</value>
+      <webElementGuid>e9fdc953-75f4-45f4-bde6-36716a692e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
+      <webElementGuid>6d941008-b184-442f-a09c-8142e6648e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>02b2e940-ffc9-4a8b-9453-0ab1c8b362b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login ' or . = 'Login ')]</value>
+      <webElementGuid>94d3be23-8316-4c24-ae4d-8f80c98d038c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

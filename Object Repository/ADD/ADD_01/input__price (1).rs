@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__price (1)</name>
+   <tag></tag>
+   <elementGuidId>c4b497a1-5419-4d57-be76-bed444908254</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#_o18ot8szd > div.modal-dialog.modal-xl > div.modal-content > div.modal-body > form > div.flex.flex-row.justify-center.gap-5.form-create > div.w-full.create-layout > input[name=&quot;price&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@name='price'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ceb6376b-e17d-4055-9316-a424a1e6a0c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>d988e42d-b440-45e5-96c0-5b1e0d3a576d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control pr-10</value>
+      <webElementGuid>5260b905-2925-46dd-b4c6-c91c0d1eaae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter price</value>
+      <webElementGuid>7d9f3700-3886-41e4-a4f3-bc7af56b4117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>2bfe4a98-bfcd-4c29-8b9f-b5c800e2421f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_o18ot8szd&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;flex flex-row justify-center gap-5 form-create&quot;]/div[@class=&quot;w-full create-layout&quot;]/input[@class=&quot;form-control pr-10&quot;]</value>
+      <webElementGuid>1a84abbc-b474-4bd8-9bc5-4aa7a35bafa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='price'])[2]</value>
+      <webElementGuid>444b1dea-3d34-4698-8ff4-899079192081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_o18ot8szd']/div/div/div[2]/form/div[3]/div/input</value>
+      <webElementGuid>5e328e24-883c-4259-ad1d-4a03de762ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form/div[3]/div/input</value>
+      <webElementGuid>d1c617b7-b638-4646-a8a2-69c0e988a37f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @placeholder = 'Enter price' and @name = 'price']</value>
+      <webElementGuid>62505636-ac21-4312-ad82-2a0ab7d827c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea__description</name>
+   <tag></tag>
+   <elementGuidId>e0924608-04cf-464b-8a4f-f7adc6d776b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//textarea[@name='description'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#_lafvo13sm > div.modal-dialog.modal-xl > div.modal-content > div.modal-body > form > div.flex.flex-row.justify-center.gap-5.form-create > div.w-full.create-layout > textarea[name=&quot;description&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>d5823790-84a9-4e0f-8d25-1b09c16be1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control pr-10</value>
+      <webElementGuid>89e630aa-223f-4b2c-8aeb-5a5f14c09a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter description</value>
+      <webElementGuid>33bed65c-e5d6-4487-b37b-67940572e430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>1730810d-afad-4921-9052-26ad6e3ce0e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_lafvo13sm&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;flex flex-row justify-center gap-5 form-create&quot;]/div[@class=&quot;w-full create-layout&quot;]/textarea[@class=&quot;form-control pr-10&quot;]</value>
+      <webElementGuid>fc51ef93-030b-4264-910c-2c2b8b7fc631</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//textarea[@name='description'])[2]</value>
+      <webElementGuid>ab6f8e29-142b-402c-901a-0a93927dc63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_lafvo13sm']/div/div/div[2]/form/div[4]/div/textarea</value>
+      <webElementGuid>bd94a292-267a-4c20-a143-d7571f3abe34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/form/div[4]/div/textarea</value>
+      <webElementGuid>e434f266-75ca-4ca0-a9fc-2a831975caa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Enter description' and @name = 'description']</value>
+      <webElementGuid>f365c87e-b6dd-4bd6-9f6d-fb995eae182d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

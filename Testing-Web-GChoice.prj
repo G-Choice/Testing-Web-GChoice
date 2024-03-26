@@ -4,9 +4,12 @@
    <name>Testing-Web-GChoice</name>
    <tag></tag>
    <UUID>73b27cfb-8c18-4a0f-b685-304365575752</UUID>
-   <freeLicense>false</freeLicense>
+   <createdVersion>9.3.1</createdVersion>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Graduation Project\Katalon\Testing-Web-GChoice\Testing-Web-GChoice.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

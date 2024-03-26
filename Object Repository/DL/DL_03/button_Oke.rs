@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Oke</name>
+   <tag></tag>
+   <elementGuidId>4a457255-7e22-463b-886a-73229054fc74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.intro-x.mx-auto.text-center.flex.justify-center > button.btn.btn-primary.w-24.mb-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[normalize-space()='Oke']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b685e337-8a29-4728-bc6c-2686e3b58613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary w-24 mb-2</value>
+      <webElementGuid>6c50a58b-518e-4d5f-9360-cd47fa7207a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oke</value>
+      <webElementGuid>4129a170-29b4-4315-bcba-89f3dab241a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_kl91h8ews&quot;)/div[@class=&quot;modal-dialog modal-md&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer px-0&quot;]/div[@class=&quot;intro-x mx-auto text-center flex justify-center&quot;]/button[@class=&quot;btn btn-primary w-24 mb-2&quot;]</value>
+      <webElementGuid>daa7b2e6-8792-48c8-8c42-380e42805feb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_kl91h8ews']/div/div/div[3]/div/button</value>
+      <webElementGuid>487753c4-4cad-42ae-938f-21bad0d1b537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/following::button[1]</value>
+      <webElementGuid>b970a31e-2898-4411-baf6-185080384765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHOP TICK ABCDEFGHIKLMNOPOP'])[2]/following::button[1]</value>
+      <webElementGuid>43ac670b-f80f-4d6f-afd4-18ca82b818a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Oke']/parent::*</value>
+      <webElementGuid>68e4e8fd-4d60-4fc6-9d0d-6a0869d923cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>dbe13f7b-c572-4cf8-83c2-e834867e6735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Oke' or . = 'Oke')]</value>
+      <webElementGuid>fcb4e9ad-3bf1-4f38-8ad8-aebb7cea39a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
