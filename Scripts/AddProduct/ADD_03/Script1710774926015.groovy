@@ -21,30 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/login')
 
-WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input_Login_email'), 'ykimtra22062003@gmail.com')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_04/input_Login_email'), 'ykimtra22062003@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/ADD/ADD_03/input_Email_password'), 'VJ6uNRAKvEsaM3HKuewOwQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/ADD/ADD_04/input_Email_password'), 'VJ6uNRAKvEsaM3HKuewOwQ==')
 
-WebUI.click(findTestObject('Object Repository/ADD/ADD_03/button_Login'))
+WebUI.click(findTestObject('Object Repository/ADD/ADD_04/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/ADD/ADD_03/button_Create'))
+WebUI.click(findTestObject('Object Repository/ADD/ADD_04/button_Create'))
 
-WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__name'), 'TRUGHFGHDJJKUKHDJNHGJYGJHJH')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_04/input__name'), 'SPOON GTUI BYIOPP JGYTIJKQẢTGG')
 
-WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__price'), '124')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_04/input__price'), '20')
 
-WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/textarea__description'), 'description')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_04/textarea__description'), 'Descript')
 
-WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__brand'), 'taiwan')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_04/input__brand'), 'mi')
 
-WebUI.setText(findTestObject('Object Repository/ADD/ADD_03/input__amount'), '2')
+WebUI.setText(findTestObject('Object Repository/ADD/ADD_04/input__amount'), '90')
 
-def uploadButton = findTestObject(findTestObject('Object Repository/ADD/ADD_03/div_Image Choose images'))
+WebUI.uploadFile(findTestObject('ADD/ADD_01/input_Choose images_images'), 'D:\\Documents\\spoon.jpg')
 
-String imagePath = "D:\\Pictures\\meeting\\" + File.separator + "canhdong.jpg"
+Thread.sleep(3000)
 
-WebUI.takeScreenshot(imagePath)
-
-
-WebUI.click(findTestObject('Object Repository/ADD/ADD_03/button_Add'))
+WebUI.click(findTestObject('Object Repository/ADD/ADD_04/button_Add'))
 

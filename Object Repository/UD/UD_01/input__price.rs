@@ -3,11 +3,11 @@
    <description></description>
    <name>input__price</name>
    <tag></tag>
-   <elementGuidId>85722023-fe6c-4c9f-bd4e-91f31a0f7ca9</elementGuidId>
+   <elementGuidId>3b3ee11f-080f-4768-b903-ea5d3978fa60</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#_z4gc49uam > div.modal-dialog.modal-xl > div.modal-content > div.modal-body > form > div.flex.flex-row.justify-center.gap-5.form-create > div.w-full.create-layout > input[name=&quot;price&quot;]</value>
+         <value>#_fni3tbaaq > div.modal-dialog.modal-xl > div.modal-content > div.modal-body > form > div.flex.flex-row.justify-center.gap-5.form-create > div.w-full.create-layout > input[name=&quot;price&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5e52b394-8b58-4206-a5d8-40fae696a3e7</webElementGuid>
+      <webElementGuid>5e4c20cb-5580-44a5-8aa0-220a487cf0bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>3c389b14-5fcc-4c69-a7d2-32bcb43c3473</webElementGuid>
+      <webElementGuid>40e387f1-05df-467a-bc53-368243364182</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control pr-10</value>
-      <webElementGuid>61bec52d-aa5c-41e4-a791-045b1ce9e3ec</webElementGuid>
+      <webElementGuid>890b29b2-9c52-48a8-917e-b7da30f48724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter price</value>
-      <webElementGuid>f8b117b6-4d43-47bf-ac5b-be8b275fddba</webElementGuid>
+      <webElementGuid>64bac603-d91b-4ebb-9a24-cb78c2da0e4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,15 +55,15 @@
       <name>name</name>
       <type>Main</type>
       <value>price</value>
-      <webElementGuid>4447fb49-fe68-429e-a729-85bf20604b21</webElementGuid>
+      <webElementGuid>03c164ad-ffd4-4459-8166-10297d9255d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_z4gc49uam&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;flex flex-row justify-center gap-5 form-create&quot;]/div[@class=&quot;w-full create-layout&quot;]/input[@class=&quot;form-control pr-10&quot;]</value>
-      <webElementGuid>d1e93356-db1e-4fd7-8492-fea6e4689f27</webElementGuid>
+      <value>id(&quot;_fni3tbaaq&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;flex flex-row justify-center gap-5 form-create&quot;]/div[@class=&quot;w-full create-layout&quot;]/input[@class=&quot;form-control pr-10&quot;]</value>
+      <webElementGuid>72971749-a4a2-47d5-9566-e94a9fe0f4cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,15 +71,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='price'])[2]</value>
-      <webElementGuid>8486a0a5-5bd5-4f34-8d82-6cb64ef6eeb5</webElementGuid>
+      <webElementGuid>81ec7e0a-48e2-4f9e-a559-0480fc9a3239</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='_z4gc49uam']/div/div/div[2]/form/div[3]/div/input</value>
-      <webElementGuid>dbab3e3c-a81f-4f22-b487-5434a42ad807</webElementGuid>
+      <value>//div[@id='_fni3tbaaq']/div/div/div[2]/form/div[3]/div/input</value>
+      <webElementGuid>cbd0b25d-5e21-4ed1-9d60-d7549d0b2f07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/form/div[3]/div/input</value>
-      <webElementGuid>8ccd1f13-893b-4370-8547-ba3edd7dad46</webElementGuid>
+      <webElementGuid>a2c9b616-64d9-4959-b1ea-87f8d7032631</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @placeholder = 'Enter price' and @name = 'price']</value>
-      <webElementGuid>9c547cc3-35a5-4c40-8f67-372e5676a51f</webElementGuid>
+      <webElementGuid>6be4c493-342b-4930-b35f-0acc1d746ede</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

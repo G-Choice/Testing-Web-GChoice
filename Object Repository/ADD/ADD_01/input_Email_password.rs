@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Email_password</name>
    <tag></tag>
-   <elementGuidId>71784dd6-266f-4fbd-8709-ca239a25e7ea</elementGuidId>
+   <elementGuidId>ed0497dc-c4a1-434c-acde-b8e706b08645</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>90efa019-21a2-4e26-8fc2-cedffd2d781c</webElementGuid>
+      <webElementGuid>57d92c99-4ebe-47d5-810f-e14209012036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>4fba070b-bcfd-4132-8ff5-9a3391bc0ba5</webElementGuid>
+      <webElementGuid>28721a43-92fd-4fc4-b8f1-787cb60baa9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input password-showhide</value>
-      <webElementGuid>0026b4a1-fd7a-4e9e-8a34-fb9293fd369c</webElementGuid>
+      <webElementGuid>d4373504-d792-465a-9d79-1dba66b89cd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>bba623a7-6d4a-4217-b389-a852b0aa413c</webElementGuid>
+      <webElementGuid>1c66219e-7afe-4f61-92e9-5f4aafb8ce09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;container sm:px-10&quot;]/div[@class=&quot;block xl:grid grid-cols-2 gap-4&quot;]/div[@class=&quot;h-screen xl:h-auto flex py-5 xl:py-0 my-10 xl:my-0&quot;]/div[@class=&quot;my-auto mx-auto xl:ml-20 bg-white dark:bg-darkmode-600 xl:bg-transparent sm:px-0 xl:p-0 rounded-md shadow-md xl:shadow-none w-full sm:w-3/4 lg:w-2/5 xl:w-auto&quot;]/div[@class=&quot;intro-x caixa__login&quot;]/form[1]/div[@class=&quot;form-row mt-4 relative&quot;]/div[@class=&quot;caixa__login-input form-group col&quot;]/input[@class=&quot;input password-showhide&quot;]</value>
-      <webElementGuid>9fcedc72-28f5-4e98-b6dc-279bd79c14de</webElementGuid>
+      <webElementGuid>b550c69f-34d6-436b-9575-9b422a0e0b64</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>b0f6be19-f7dd-48bf-9caa-6e711f741595</webElementGuid>
+      <webElementGuid>936548d3-ce75-4f82-81d7-5f1f8bee00dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div[2]/div/div/form/div[2]/div/input</value>
-      <webElementGuid>89319420-6b4e-4063-8bcf-510e82df5ca0</webElementGuid>
+      <webElementGuid>55c45441-5b98-40c0-ba82-f273343b2bae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>cbbbb4d6-a426-4334-87c6-4bdf1425a719</webElementGuid>
+      <webElementGuid>7ba66ee4-58ac-44ad-a607-893988912cc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,38 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>df0682f5-cb9f-43c0-918b-6ea18b324324</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@name='email']</value>
-      <webElementGuid>01901d06-52aa-4aae-9994-5801166c496a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='app']/div/div/div/div[2]/div/div/form/div/div/input</value>
-      <webElementGuid>f636d63a-dae6-4b44-a814-b00866252ab8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>05854f96-6ca6-4946-9f4d-0d5c60e71942</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'email']</value>
-      <webElementGuid>6d5ac54e-9caa-4242-b7a8-70840a1c67c9</webElementGuid>
+      <webElementGuid>50779bbc-185f-44a0-972e-cc050f1e32c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

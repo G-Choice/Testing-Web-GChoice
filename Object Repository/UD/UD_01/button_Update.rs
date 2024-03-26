@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Update</name>
    <tag></tag>
-   <elementGuidId>8a2f1103-cc52-4a79-a6e3-5563a2c02c91</elementGuidId>
+   <elementGuidId>1cb9dba2-54c5-455e-b020-58649080b1c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#_z4gc49uam > div.modal-dialog.modal-xl > div.modal-content > div.modal-body > form > div.modal-footer > div > div.intro-x.mx-auto.text-center.flex.justify-end > button.btn.btn-primary.w-24.mb-2</value>
+         <value>#_fni3tbaaq > div.modal-dialog.modal-xl > div.modal-content > div.modal-body > form > div.modal-footer.px-0 > div.intro-x.mx-auto.text-center.flex.justify-end > button.btn.btn-primary.w-24.mb-2</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b0bd1216-af58-4b45-9bf7-b58df9c9cd5b</webElementGuid>
+      <webElementGuid>8f3aeee0-316a-4c82-aa5c-b88bbb47f715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary w-24 mb-2</value>
-      <webElementGuid>84b6cf7d-7273-43f2-a21e-41041e09bb58</webElementGuid>
+      <webElementGuid>44785176-13db-42d6-ac11-a893900afe61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>d0dd6bba-a5c7-431d-accd-d2998a13d8fe</webElementGuid>
+      <webElementGuid>3e491561-ae32-4bdb-b1bf-531a0c0096c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,15 +47,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Update</value>
-      <webElementGuid>0f75ec0c-0d4c-48fd-9822-9c739ba9d152</webElementGuid>
+      <webElementGuid>3ca76429-0fdf-459d-b81e-731e9d548ebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;_z4gc49uam&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;modal-footer&quot;]/div[1]/div[@class=&quot;intro-x mx-auto text-center flex justify-end&quot;]/button[@class=&quot;btn btn-primary w-24 mb-2&quot;]</value>
-      <webElementGuid>b36fb164-b32a-4823-8825-e5b4f6197d24</webElementGuid>
+      <value>id(&quot;_fni3tbaaq&quot;)/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;modal-footer px-0&quot;]/div[@class=&quot;intro-x mx-auto text-center flex justify-end&quot;]/button[@class=&quot;btn btn-primary w-24 mb-2&quot;]</value>
+      <webElementGuid>ddacc70a-2227-45e3-bf31-b70c601dcb05</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='submit'])[2]</value>
-      <webElementGuid>dfc15d23-345c-4f05-abb0-2b3357a8cff2</webElementGuid>
+      <webElementGuid>48a58f88-be18-4062-a654-28438177cf2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='_z4gc49uam']/div/div/div[2]/form/div[10]/div/div/button</value>
-      <webElementGuid>e7159b0d-fbe9-4e71-8a00-bccb607ae953</webElementGuid>
+      <value>//div[@id='_fni3tbaaq']/div/div/div[2]/form/div[10]/div/button</value>
+      <webElementGuid>650bf023-bb52-464d-89ec-b627d8e22da2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/following::button[1]</value>
-      <webElementGuid>8f6d0868-c1bc-4db1-b4b0-e46946f9a2a6</webElementGuid>
+      <webElementGuid>3fbdbf78-3dc7-4ff5-b72e-a528a7cf9f1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose images'])[2]/following::button[1]</value>
-      <webElementGuid>89bb1e07-1b26-4adc-966e-69ea98f7b0de</webElementGuid>
+      <webElementGuid>9f058240-c961-46ed-80e2-902bb6531795</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,15 +95,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
-      <webElementGuid>b76b4dd4-223a-43c0-97a3-a8a2724aa812</webElementGuid>
+      <webElementGuid>a9ba4544-334a-45b2-b30f-0765da2398b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[10]/div/div/button</value>
-      <webElementGuid>49f729d0-2d7c-4f27-811d-8a280503c2b9</webElementGuid>
+      <value>//div[10]/div/button</value>
+      <webElementGuid>c9a8d263-a1bf-449c-9cb6-5e957929d560</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Update' or . = 'Update')]</value>
-      <webElementGuid>c7b66f96-8485-4f72-b7ea-730da14252f2</webElementGuid>
+      <webElementGuid>ae1be7d4-d7a4-4c61-b51a-b4891a0b6213</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

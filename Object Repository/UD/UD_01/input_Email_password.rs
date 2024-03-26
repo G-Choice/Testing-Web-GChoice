@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Email_password</name>
    <tag></tag>
-   <elementGuidId>f25f8e52-1c61-4b0f-84ab-236407cd9f13</elementGuidId>
+   <elementGuidId>05abc9e8-e6cd-481b-97e0-4cb4eb1c6fd0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>26a194df-9fdb-4d3e-a01b-02715d6f8949</webElementGuid>
+      <webElementGuid>5df0c05a-aa29-490b-a9f4-bd33c6afb09c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>57d84612-5ec6-4e64-bc2c-36015ca1a17f</webElementGuid>
+      <webElementGuid>8753ecd2-7d43-4178-b2fd-5e78b8e0478e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input password-showhide</value>
-      <webElementGuid>544fea1b-f8f9-4618-bea8-252a5d65bf0b</webElementGuid>
+      <webElementGuid>6c22260a-84fe-4125-9be8-d24c644ea2ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>a8f6d190-1bad-4142-917a-ad138d689eb2</webElementGuid>
+      <webElementGuid>d22f8f43-e9ed-4625-aa5f-463ec2e5ac9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;container sm:px-10&quot;]/div[@class=&quot;block xl:grid grid-cols-2 gap-4&quot;]/div[@class=&quot;h-screen xl:h-auto flex py-5 xl:py-0 my-10 xl:my-0&quot;]/div[@class=&quot;my-auto mx-auto xl:ml-20 bg-white dark:bg-darkmode-600 xl:bg-transparent sm:px-0 xl:p-0 rounded-md shadow-md xl:shadow-none w-full sm:w-3/4 lg:w-2/5 xl:w-auto&quot;]/div[@class=&quot;intro-x caixa__login&quot;]/form[1]/div[@class=&quot;form-row mt-4 relative&quot;]/div[@class=&quot;caixa__login-input form-group col&quot;]/input[@class=&quot;input password-showhide&quot;]</value>
-      <webElementGuid>e6edba91-5e68-4420-8859-e86d1ffdbedb</webElementGuid>
+      <webElementGuid>20006bbf-6e23-4e73-b910-c1fe77524b33</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>46ffa109-3f3e-48a5-904f-33fed72efef8</webElementGuid>
+      <webElementGuid>79696283-428b-4ae0-a0f1-4278be15aca1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div[2]/div/div/form/div[2]/div/input</value>
-      <webElementGuid>76f6b16b-a99f-4032-b2b7-751dc51b2406</webElementGuid>
+      <webElementGuid>a1620c38-62fa-49ea-9193-db25b5d6abe2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>b8ba1407-dc87-4f3c-a832-33e921714474</webElementGuid>
+      <webElementGuid>7049c66c-275a-4e71-8344-12093fdfc339</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>a2d5d6d5-615e-4de6-bd68-eafe3b28a2f4</webElementGuid>
+      <webElementGuid>e2ddd02e-a0e0-489c-9c46-ce32622324ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

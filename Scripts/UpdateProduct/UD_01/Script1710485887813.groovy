@@ -23,17 +23,19 @@ WebUI.navigateToUrl('http://localhost:3000/login')
 
 WebUI.setText(findTestObject('Object Repository/UD/UD_01/input_Login_email'), 'ykimtra22062003@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/UD/UD_01/input_Email_password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/UD/UD_01/input_Email_password'), 'VJ6uNRAKvEsaM3HKuewOwQ==')
 
 WebUI.click(findTestObject('Object Repository/UD/UD_01/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/UD/UD_01/svg_inactive_lucide w-4 h-4 mr-1'))
+WebUI.click(findTestObject('Object Repository/UD/UD_01/a_Logout_side-menu side-menu--open'))
 
-WebUI.setText(findTestObject('Object Repository/UD/UD_01/input__name'), 'TYUIUHJBHFGDREDRXFGVJHHKJIJKLMKLJ')
+WebUI.click(findTestObject('Object Repository/UD/UD_01/svg_active_lucide w-4 h-4 mr-1'))
 
-WebUI.setText(findTestObject('Object Repository/UD/UD_01/input__price'), '132031')
+WebUI.setText(findTestObject('Object Repository/UD/UD_01/input__name'), 'CHOPSTICK CHOPSTICK SPOONLIFE')
 
-WebUI.setText(findTestObject('Object Repository/UD/UD_01/textarea__description'), 'qúa xinh')
+WebUI.setText(findTestObject('Object Repository/UD/UD_01/input__price'), '400')
 
 WebUI.click(findTestObject('Object Repository/UD/UD_01/button_Update'))
+
+WebUI.click(findTestObject('Object Repository/UD/UD_01/svg_Update_lucide text-black'))
 

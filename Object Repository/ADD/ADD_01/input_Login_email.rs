@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Login_email</name>
    <tag></tag>
-   <elementGuidId>6feb7c2a-4e08-459f-97f8-3da34897b1a9</elementGuidId>
+   <elementGuidId>2e88aaa0-83ad-4d0c-b7a2-ff7a3db73ccf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4788add5-0fab-4779-a127-edf566be45a4</webElementGuid>
+      <webElementGuid>1b7d789c-a9a6-4d32-bcfa-391e388c1348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5c6bc7a8-6474-4127-830d-b42d97df4d25</webElementGuid>
+      <webElementGuid>edbc2702-336c-46ef-af7c-9e89eae7c346</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input py-2 px- bloc intro-x login__input</value>
-      <webElementGuid>ff5b836c-8cd2-4d70-a0bd-5e43b78075fd</webElementGuid>
+      <webElementGuid>a770f1d6-20b8-4023-aa16-4bd4eb5ccc76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>6ea5ba26-cafc-4dc6-bca0-004df792ad96</webElementGuid>
+      <webElementGuid>9ba3be55-64cf-46c2-b362-0549638afae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;container sm:px-10&quot;]/div[@class=&quot;block xl:grid grid-cols-2 gap-4&quot;]/div[@class=&quot;h-screen xl:h-auto flex py-5 xl:py-0 my-10 xl:my-0&quot;]/div[@class=&quot;my-auto mx-auto xl:ml-20 bg-white dark:bg-darkmode-600 xl:bg-transparent sm:px-0 xl:p-0 rounded-md shadow-md xl:shadow-none w-full sm:w-3/4 lg:w-2/5 xl:w-auto&quot;]/div[@class=&quot;intro-x caixa__login&quot;]/form[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;caixa__login-input form-group col&quot;]/input[@class=&quot;input py-2 px- bloc intro-x login__input&quot;]</value>
-      <webElementGuid>c4b6529b-5734-496d-973d-dd36187ac7b0</webElementGuid>
+      <webElementGuid>5bcd1a80-d0b2-484d-bc40-43934b52682f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='email']</value>
-      <webElementGuid>973f3e3a-bbb2-4431-82bc-9a05a7fa8723</webElementGuid>
+      <webElementGuid>39ba0524-fe04-486a-9f26-c5d21d972a9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div[2]/div/div/form/div/div/input</value>
-      <webElementGuid>4b024a3c-76fe-47d8-87b9-2cecf2656b91</webElementGuid>
+      <webElementGuid>1606cb3b-96cd-4db6-8e12-0abfc920ed91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>eb82af08-00a8-4f14-b5a9-3f8bbff07d6a</webElementGuid>
+      <webElementGuid>c12f85a4-b8a9-4f4f-a95d-d36c681b9343</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'email']</value>
-      <webElementGuid>e599bce0-02bb-402b-a8c9-2620b93593a6</webElementGuid>
+      <webElementGuid>6fb023b1-89ca-444e-9c87-9e1cdf397d18</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
